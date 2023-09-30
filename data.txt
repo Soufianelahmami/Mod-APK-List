@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "e2290fc1-a06a-45fa-a5d7-b23a1b19072e",
 
   "guides": [
 	{
-	 "image": "xxxx",
+	 "image": "https://iili.io/JdctWmb.webp",
 	 "title": "00",
-	 "text": "xxxx",
+	 "text": "Creating a Mod APK List can be an interesting project, especially if you focus on providing modified versions of popular applications with additional features or enhancements. However, it's important to note that distributing or promoting modded APKs may violate the terms of service of the original applications, and it could be illegal",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcmlBR.webp",
+	 "title": "Mod APK List",
+	 "text": "Create a platform that showcases legal and ethical app enhancements. Developers could submit their modified versions of apps with new features or improvements, and users can choose which enhancements they want to install. Make sure to emphasize that these are enhancements and not unauthorized modifications.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcmaLv.webp",
+	 "title": "Mod APK List",
+	 "text": "Build a platform that allows users to customize the appearance and functionality of popular apps without modifying the APK directly. Users could choose from a variety of themes, layouts, and add-ons to personalize their app experience legally.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdcm01p.webp",
+	 "title": "Mod APK List",
+	 "text": "Instead of providing entire modified APKs, create a platform where users can download and install tweaks or plugins for specific applications. These could include additional features, integrations, or UI changes that users can apply without violating any terms.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdcm1rN.webp",
+	 "title": "Mod APK List",
+	 "text": "Develop a collection of apps or plugins that enhance the security and privacy aspects of popular applications. This might include features like ad blockers, enhanced encryption, or additional privacy settings.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcmG2I.webp",
+	 "title": "Mod APK List",
+	 "text": "Offer a platform where users can access beta features of popular apps before they are officially released. Users could opt-in to test new functionalities and provide feedback to developers.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
